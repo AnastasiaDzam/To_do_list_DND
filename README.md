@@ -9,3 +9,7 @@ npm install
 
 5. 🚀 Запусти приложение:
 npm run dev
+
+
+деплой тут:
+https://anastasiadzam.github.io/To_do_list_DND/
