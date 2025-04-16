@@ -13,3 +13,11 @@ npm run dev
 
 деплой тут:
 https://anastasiadzam.github.io/To_do_list_DND/
+
+Я реализовала To-Do List на React с использованием:
+- React Hooks (useState, useEffect, useMemo, useCallback) для управления состоянием и оптимизации
+- React DnD — для drag-and-drop перестановки задач
+- React Hook Form — для простой и валидируемой формы добавления задач
+- localStorage — чтобы сохранять задачи между сессиями
+- classnames — для управления CSS классами
+
